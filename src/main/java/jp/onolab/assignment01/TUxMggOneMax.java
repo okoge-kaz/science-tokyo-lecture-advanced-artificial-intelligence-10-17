@@ -103,8 +103,8 @@ public class TUxMggOneMax {
 	 * @throws IOException
 	 */
 	public static void main(String[] args) throws IOException {
-        int populationSize = 40; // Population size
-        int samplingSize = 20; // Sampling size
+        int populationSize = 16; // Population size
+        int samplingSize = 10; // Sampling size
         int maxNumOfEvals = 3000; // The maximum number of evaluations
         int dim = 30; // Dimension
         double optimum = -30.0; // The optimum

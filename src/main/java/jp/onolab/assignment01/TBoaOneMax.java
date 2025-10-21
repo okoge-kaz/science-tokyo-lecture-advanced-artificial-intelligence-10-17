@@ -68,8 +68,8 @@ public class TBoaOneMax {
 	 * @throws IOException
 	 */
 	public static void main(String[] args) throws IOException {
-        int populationSize = 160; // Population size
-        int candidatePopulationSize = 80; // Sampling size
+        int populationSize = 127; // Population size
+        int candidatePopulationSize = 48; // Sampling size
         int maxNumOfEvals = 10000; // The maximum number of evaluatinos
         int dim = 30; // Dimension
         double optimum = -30.0; // The optimum

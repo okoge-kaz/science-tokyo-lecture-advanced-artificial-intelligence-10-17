@@ -68,7 +68,7 @@ public class TBoaThreeDeceptive {
 	 * @throws IOException
 	 */
 	public static void main(String[] args) throws IOException {
-        int populationSize = 400; // Population size
+        int populationSize = 410; // Population size
         int samplingSize = 200; // Sampling size
         int maxNumOfEvals = 50000; // The maximum number of evaluations
         int dim = 30; // Dimension

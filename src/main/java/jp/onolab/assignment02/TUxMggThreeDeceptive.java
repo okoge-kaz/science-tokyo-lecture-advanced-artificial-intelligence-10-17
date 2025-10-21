@@ -103,8 +103,8 @@ public class TUxMggThreeDeceptive {
 	 * @throws IOException
 	 */
 	public static void main(String[] args) throws IOException {
-        int populationSize = 1200; // Population size
-        int samplingSize = 600; // Sampling size
+        int populationSize = 100; // Population size
+        int samplingSize = 98; // Sampling size
         int maxNumOfEvals = 3000000; // The maximum number of evaluations
         int dim = 30; // Dimension
         int k = 3; // k
